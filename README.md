@@ -1,2 +1,2 @@
 # Tienda-MinTic-Sprint-5
-Este es el quinto y último Sprint para el proyecto en desarrollo denominado "tienda genérica"
+Se incluyen todos los módulos con su respectiva interfaz gráfica para el proyecto "tienda genérica". 
